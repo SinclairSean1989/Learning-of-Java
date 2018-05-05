@@ -1,6 +1,4 @@
 /** 基础语法——数据类型*/
-/*
-*/
 class basicGrammar{
  public static void main(String args[]){
   System.out.println('a');
