@@ -13,6 +13,7 @@ class method1{
   }
   public static int max(int a,int b,int c){
     int m;
+    //return a>b?a>c?a:c:b>c?b:c;
     m=(a>b)?a:b;
     m=(m>c)?m:c;
     return m;
